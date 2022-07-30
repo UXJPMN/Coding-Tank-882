@@ -11,5 +11,6 @@ while(num <= 100) {
     console.log(num);
   }
 
-  num = num + 1;
+  //num++ é a mesma coisa que num += 1 é a mesma coisa de num = num + 1
+  num++;
 }
